@@ -1,5 +1,6 @@
 <?php
 include('save.php');
+echo "<h3>Deployed at: ".date('Y-m-d H:i:s')."</h3>";
 ?>
 
 <!DOCTYPE html>
