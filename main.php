@@ -1,6 +1,5 @@
 <?php
 include('save.php');
-echo "<h3> thanks for joining marmoushhh</h3>";
 ?>
 
 <!DOCTYPE html>
